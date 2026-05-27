@@ -3,6 +3,4 @@ layout: default
 title: Home
 ---
 
-# Emma Jane Weller
-
-I am a PhD candidate in astronomy at Yale University.
+I am a second year PhD candidate in astronomy at Yale University working with Prof. Priyamvada Natarajan. I grew up in the Pacific Northwest, where I enjoyed raising livestock, riding horses, playing piano, and singing in choir. I graduated from Harvard University in 2024 with an AB in Physics and Astrophysics. In my research I use cosmological simulations to study black holes and galaxy evolution, with a focus on wandering massive black holes arising from minor galaxy mergers.
