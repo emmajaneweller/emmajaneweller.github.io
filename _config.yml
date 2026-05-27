@@ -1,3 +1,7 @@
 title: Emma Jane Weller
 description: Astronomy PhD Candidate at Yale
 theme: minima
+
+header_pages:
+  - index.md
+  - cv.md
