@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-# CV
-
 Updated DATE
+
+Download PDF (insert link)
+
+(Insert PDF viewer)
