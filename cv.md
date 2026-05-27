@@ -4,8 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-Updated DATE
+Updated May 2026
 
-Download PDF (insert link)
-
-(Insert PDF viewer)
+<iframe 
+  src="/CV.pdf" 
+  width="100%" 
+  height="800px">
+</iframe>
