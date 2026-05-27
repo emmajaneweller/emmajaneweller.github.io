@@ -4,4 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I use cosmological simulations to study the coevolution of massive black holes and their host galaxies. My papers have investigated wandering massive black holes, AGN feedback, and the <i>M</i><sub>BH</sub>–<i>M</i><sub>★</sub> relation. You can view them on my [ADS](https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ)/[SciX](https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ) library. 
+I use cosmological simulations to study the coevolution of massive black holes and their host galaxies. My papers have investigated wandering massive black holes, AGN feedback, and the <i>M</i><sub>BH</sub>–<i>M</i><sub>★</sub> relation. You can view them on my <a href="https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ">ADS</a>/<a href="https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ">SciX</a> library. 
+
+---
+
+<img src="/spikes_figure.png" width="500" alt="Figure 5 from Weller et al. 2023">
+<p> <i> Galactocentric distance (thick green line) and Eddington ratio (thin orange line) vs. time for a wandering IMBH in the ASTRID simulation. The Eddington ratio is high during the infall, and spikes when the distance is close to a minimum. The middle and bottom panels zoom in for better visualization. See <a href="https://doi.org/10.1093/mnras/stad347">Weller et al. 2023</a> (Figure 5). </i> </p>
+
+<img src="/quenching_figure.png" width="500" alt="Figure 9 from Weller et al. 2025">
+<p> <i> Maps of the gas density colored by temperature (top row, redder is hotter) and stellar density colored by age (bottom row, redder is older) for a galaxy in the TNG100 simulation. Brightness indicates the mass density. Each column shows the galaxy at a particular snapshot. Around the time of quenching (z~3), the gas is heated and expelled from the galaxy's center. At reactivation (z~1), new gas is brought into the galaxy via mergers with surrounding galaxies. All boxes have a side length of 50 ckpc/h. See <a href="https://doi.org/10.3847/1538-4357/ada360">Weller et al. 2025</a> (Figure 9). </i> </p>
