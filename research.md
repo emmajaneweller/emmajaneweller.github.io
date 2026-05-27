@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I use cosmological simulations to study the coevolution of massive black holes and their host galaxies. My papers have investigated wandering black holes, AGN feedback, and the <i>M</i><sub>BH</sub>–<i>M</i><sub>★</sub> relation. You can access them on my <a href="https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ">ADS</a>/<a href="https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ">SciX</a> library, or view a few key figures below.
+I use cosmological simulations to study the coevolution of massive black holes and their host galaxies. My papers have investigated wandering black holes, AGN feedback, and the <i>M</i><sub>BH</sub>–<i>M</i><sub>★</sub> relation. You can access them on my <a href="https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ">ADS</a>/<a href="https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ">SciX</a> library, or view some key figures below.
 
 ---
 <img src="/spikes_figure.png" width="450" style="margin-top: 15px" alt="Figure 5 from Weller et al. 2023">
