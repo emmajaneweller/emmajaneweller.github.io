@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated May 2026
+Updated September 2026
 
 <p>
   <a href="/EJW_CV.pdf" download>
