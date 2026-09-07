@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I use cosmological simulations to study the coevolution of massive black holes and their host galaxies. My papers have investigated wandering black holes, AGN feedback, and the $M_\mathrm{BH} - M_\star$ relation. You can access them on my <a href="https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ">ADS</a>/<a href="https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ">SciX</a> library, or view some key figures below.
+I use cosmological simulations to study the coevolution of massive black holes (BHs) and their host galaxies. My papers have investigated wandering BHs, active galactic nucleus (AGN) feedback, and the $M_\mathrm{BH} - M_\star$ relation. You can access them on my <a href="https://ui.adsabs.harvard.edu/public-libraries/2XODRSogRt69IPwZkt9RqQ">ADS</a>/<a href="https://scixplorer.org/public-libraries/2XODRSogRt69IPwZkt9RqQ">SciX</a> library, or view some key figures below.
 
 ---
 ---
@@ -20,5 +20,5 @@ I use cosmological simulations to study the coevolution of massive black holes a
 ---
 
 <img src="/spikes_figure.png" width="450" style="margin-top: 15px" alt="Figure 5 from Weller et al. 2023">
-<p> Galactocentric distance (thick green line) and Eddington ratio (thin orange line) vs. time for a wandering intermediate-mass black hole in the ASTRID simulation. The Eddington ratio is high during the infall, and spikes when the distance is close to a minimum. The middle and bottom panels zoom in for better visualization. <i> See <a href="https://doi.org/10.1093/mnras/stad347">Weller et al. 2023</a> (Figure 5). </i> </p>
+<p> Galactocentric distance (thick green line) and Eddington ratio (thin orange line) vs. time for a wandering intermediate-mass BH in the ASTRID simulation. The Eddington ratio is high during the infall, and spikes when the distance is close to a minimum (which corresponds to the BH passing through a higher-density region). The middle and bottom panels zoom in for better visualization. <i> See <a href="https://doi.org/10.1093/mnras/stad347">Weller et al. 2023</a> (Figure 5). </i> </p>
 
